@@ -1,0 +1,25 @@
+.row {
+   display: table-cell;
+  vertical-align: middle;
+}
+
+.grid-box {
+  height: 300px;
+  width: 300px;
+}
+
+.hot-pink {
+  background-color: #F52549;
+}
+
+.white {
+  color: #F52549;
+  font-family: 'Archivo Black', sans-serif;
+  text-align: center;
+  
+ 
+}
+
+.white h1 {
+
+}
